@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <a src="https://www.mongodb.com/"><img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/prisma.dark.svg" width="48px"/></a>
 <a src="https://www.docker.com/"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="48px"/></a>
 <a src="https://github.com/"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48px"/></a>
-<a src="https://www.w3schools.com/css/"><img src="https://commons.wikimedia.org/wiki/File:Svelte_Logo.svg" width="48px"/></a>
+<a src="https://www.w3schools.com/css/"><img src="https://github.com/gilbarbara/logos/blob/master/logos/svelte-icon.svg" width="48px"/></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png" width="48px"/></a>
 
 <div align="center">
