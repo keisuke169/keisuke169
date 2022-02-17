@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <img src="https://img.icons8.com/color/50/000000/kubernetes.png"/>
+<img src="https://www.vectorlogo.zone/logos/konghq/konghq-icon.svg"/>
+
 
 #### 🌱 I’m currently learning ...
 <a src="https://www.typescriptlang.org/"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" style="color:#ffff;"/></a>
