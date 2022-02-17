@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/keisuke169/keisuke169/master/Frame15.png" width="100%" title="Intro Card" alt="Intro Card">
+  <svg src="https://raw.githubusercontent.com/keisuke169/keisuke169/master/Frame15.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 <!--
