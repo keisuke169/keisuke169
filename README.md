@@ -39,10 +39,10 @@ Here are some ideas to get you started:
 <a src="https://www.typescriptlang.org/"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="48px" style="color:#ffff;"/></a>
 <a src="https://nodejs.org/"><img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" width="48px"/></a>
 <a src="https://www.mongodb.com/"><img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/prisma.dark.svg" width="48px"/></a>
-<a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
-<a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
-<a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+<a src="https://www.docker.com/"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="48px"/></a>
+<a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png" width="48px"/></a>
+<a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png" width="48px"/></a>
+<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png" width="48px"/></a>
 
 <div align="center">
   <h4 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h4> 
