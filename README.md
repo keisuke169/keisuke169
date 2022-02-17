@@ -42,7 +42,6 @@ Here are some ideas to get you started:
 <a src="https://www.docker.com/"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="48px"/></a>
 <a src="https://github.com/"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48px"/></a>
 <a src="https://www.w3schools.com/css/"><img src="https://github.com/gilbarbara/logos/blob/master/logos/svelte-icon.svg" width="48px"/></a>
-<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png" width="48px"/></a>
 
 <div align="center">
   <h4 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h4> 
