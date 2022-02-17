@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/keisuke169/keisuke169/master/keisuke-port2.svg" width="100%" title="Intro. Card" alt="Intro Card">
+  <img src="https://raw.githubusercontent.com/keisuke169/keisuke169/master/keisuke-port-2.svg" width="100%" title="Intro. Card" alt="Intro Card">
 </p>
 
 <!--
