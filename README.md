@@ -32,8 +32,17 @@ Here are some ideas to get you started:
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <img src="https://img.icons8.com/color/50/000000/kubernetes.png"/>
 
+#### 🌱 I’m currently learning ...
+<a src="https://www.typescriptlang.org/"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-vertical.svg"/></a>
+<a src="https://nodejs.org/"><img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"/></a>
+<a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
+<a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
+<a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
+<a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+
 <div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+  <h4 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h4> 
 </div>
 <p align="center">
  <a href="https://www.linkedin.com/in/keisuke-ihara-0568a612b/" target="blank">
