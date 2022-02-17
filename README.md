@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <img src="https://img.icons8.com/color/50/000000/kubernetes.png"/>
 
 #### 🌱 I’m currently learning ...
-<a src="https://www.typescriptlang.org/"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-vertical.svg"/></a>
+<a src="https://www.typescriptlang.org/"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" style="color:#ffff;"/></a>
 <a src="https://nodejs.org/"><img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"/></a>
 <a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
 <a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
