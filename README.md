@@ -1,5 +1,4 @@
-### Hi there 
-<img src="https://tenor.com/view/wave-hello-emote-flat-waving-gif-22026836" width="29px"> 
+### Hi there <img src="https://raw.githubusercontent.com/keisuke169/keisuke169/master/wave-hello.gif" width="29px"> 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/keisuke169/keisuke169/master/keisuke-port-2.svg" width="100%" title="Intro. Card" alt="Intro Card">
