@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <img src="https://img.icons8.com/color/50/000000/kubernetes.png"/>
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-angular-a-typescript-based-open-source-web-application-framework-logo-color-tal-revivo.png"/>
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png"/>
